@@ -1,7 +1,7 @@
 <h1> C++ One File Game Challenge </h1>
 <hr>
 <p>This "game" was created using C++ (obviously) and is written in one file! I used the SFML Library to create a render window and draw sprites to it.</p>
-<p>This was also coded before I knew about binding the texture object to the program memory. This code could be cutdown by quite a bit if I had discovered this, but, here is a working program without it.</p>
+<p>This was also programmed before I knew about binding the texture object to the program memory. This code could be cutdown by quite a bit if I had discovered this, but, here is a working program without it.</p>
 <hr>
 <p>The game uses a 32x32 tile system, and the ground tiles are generated along with the actual displayed tiles, to ensure that after an entity is touched, the tile will not change
   to a random tile type of the ground. This was originally created as a school project, and became more of a challenge, as I could use math and solve logical problems. </p>
